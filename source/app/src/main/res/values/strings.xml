@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TakeMe</string>
+    <string name="listen_start">Start Listening</string>
+    <string name="listen_stop">Stop Listening</string>
 </resources>
